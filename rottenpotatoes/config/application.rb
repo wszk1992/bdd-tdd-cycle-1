@@ -69,6 +69,8 @@ module Rottenpotatoes
     # Fix for Heroku deploy
     config.assets.initialize_on_precompile = false
 
+    # to silence message http://stackoverflow.com/questions/20361428/rails-i18n-validation-deprecation-warning
+    config.i18n.enforce_available_locales = true
   end
 end
 
