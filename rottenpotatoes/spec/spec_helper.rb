@@ -1,4 +1,4 @@
-# Get a unified report for Cucumber and RSpec
+# Get an unified report for Cucumber and RSpec
 require 'simplecov'
 SimpleCov.start 'rails'
 

@@ -14,6 +14,7 @@ module NavigationHelpers
     case page_name
 
     when /^the home\s?page$/
+      # chaged from '/' to 'movies'
       '/movies'
 
     # Add more mappings here.
