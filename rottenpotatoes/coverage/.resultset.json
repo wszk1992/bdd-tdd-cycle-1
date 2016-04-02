@@ -1,16 +1,16 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/controllers/application_controller.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
         1,
@@ -18,7 +18,7 @@
         null,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/controllers/movies_controller.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/controllers/movies_controller.rb": [
         1,
         null,
         1,
@@ -100,7 +100,7 @@
         null,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/models/movie.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/models/movie.rb": [
         1,
         null,
         1,
@@ -115,20 +115,20 @@
         null
       ]
     },
-    "timestamp": 1401734802
+    "timestamp": 1459563695
   },
   "RSpec": {
     "coverage": {
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/controllers/application_controller.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
         1,
@@ -136,7 +136,7 @@
         null,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/controllers/movies_controller.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/controllers/movies_controller.rb": [
         1,
         null,
         1,
@@ -218,7 +218,7 @@
         null,
         null
       ],
-      "/var/lib/stickshift/5387e2d55004465186000322/app-root/data/877008/rottenpotatoes/app/models/movie.rb": [
+      "/home/wszk1992/Documents/github/cs606/bdd-tdd-cycle-1/rottenpotatoes/app/models/movie.rb": [
         1,
         null,
         1,
@@ -233,6 +233,6 @@
         null
       ]
     },
-    "timestamp": 1401939245
+    "timestamp": 1459563678
   }
 }
